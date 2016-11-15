@@ -1,0 +1,6 @@
+1.git clone ---->clone remote project
+2.vi testpage
+3.git add testpage
+4.git commit -m "the change";
+5.git pull ---->merge the project
+6.git push
